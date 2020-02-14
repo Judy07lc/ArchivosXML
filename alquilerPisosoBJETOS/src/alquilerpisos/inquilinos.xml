@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inquilinos>
+    <inquilino>
+        <nombre>Lorenzo Alonso</nombre>
+        <dni>12345678A</dni>
+        <tlf>981234567</tlf>
+        <ingresos>900</ingresos>
+        <observaciones>nada</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Ana</nombre>
+        <dni>123</dni>
+        <tlf>1122434</tlf>
+        <ingresos>8000</ingresos>
+        <observaciones>gm,r</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Benito</nombre>
+        <dni>2314</dni>
+        <tlf>994832</tlf>
+        <ingresos>3242343</ingresos>
+        <observaciones>eo</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Sofía2q3112</nombre>
+        <dni>1312</dni>
+        <tlf>41</tlf>
+        <ingresos>5000sfjr</ingresos>
+        <observaciones>jksdfj</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Pedrito</nombre>
+        <dni>1234</dni>
+        <tlf>232123</tlf>
+        <ingresos>2000</ingresos>
+        <observaciones>hola</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Alicia</nombre>
+        <dni>1234</dni>
+        <tlf>123</tlf>
+        <ingresos>987</ingresos>
+        <observaciones>eo</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Sonia</nombre>
+        <dni>123456</dni>
+        <tlf>984562378</tlf>
+        <ingresos>600</ingresos>
+        <observaciones>440kwefmk</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Lorenzo Sanz</nombre>
+        <dni>123</dni>
+        <tlf>1232</tlf>
+        <ingresos>213</ingresos>
+        <observaciones>eoo</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Judit</nombre>
+        <dni>34882100R</dni>
+        <tlf>677478558</tlf>
+        <ingresos>2000</ingresos>
+        <observaciones>Trabajador en activo</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Pepe</nombre>
+        <dni>32147741T</dni>
+        <tlf>654789321</tlf>
+        <ingresos>1000</ingresos>
+        <observaciones>Trabajador en paro</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Pepes</nombre>
+        <dni>32147741</dni>
+        <tlf>654789321</tlf>
+        <ingresos>1000</ingresos>
+        <observaciones>Trabajador en paro</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Pepess</nombre>
+        <dni>32147741T</dni>
+        <tlf>654789321</tlf>
+        <ingresos>1000</ingresos>
+        <observaciones>Trabajador en paro</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Pepess</nombre>
+        <dni>32147741T</dni>
+        <tlf>654789321</tlf>
+        <ingresos>1001</ingresos>
+        <observaciones>Trabajador en paro</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Kevin</nombre>
+        <dni>34887779t</dni>
+        <tlf>654789987</tlf>
+        <ingresos>1600</ingresos>
+        <observaciones>Trabajador en activo</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Hugo</nombre>
+        <dni>34887779t</dni>
+        <tlf>654123321</tlf>
+        <ingresos>1600</ingresos>
+        <observaciones>654</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Jose Manuel</nombre>
+        <dni>34887779t</dni>
+        <tlf/>
+        <ingresos>1600</ingresos>
+        <observaciones/>
+    </inquilino>
+    <inquilino>
+        <nombre>Jorge</nombre>
+        <dni>4</dni>
+        <tlf>4</tlf>
+        <ingresos>4</ingresos>
+        <observaciones>4</observaciones>
+    </inquilino>
+    <inquilino>
+        <nombre>Rodrigo</nombre>
+        <dni>35456987</dni>
+        <tlf>699802945</tlf>
+        <ingresos>1000</ingresos>
+        <observaciones>activo</observaciones>
+    </inquilino>
+</inquilinos>
